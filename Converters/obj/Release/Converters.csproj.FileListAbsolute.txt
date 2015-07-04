@@ -1,0 +1,17 @@
+D:\Socles Techniques\MyUniversalWindowsStoreApp\UniversalConverters\Converters\obj\Release\Converters.csprojResolveAssemblyReference.cache
+D:\Socles Techniques\MyUniversalWindowsStoreApp\UniversalConverters\Converters\bin\Release\Converters.dll
+D:\Socles Techniques\MyUniversalWindowsStoreApp\UniversalConverters\Converters\bin\Release\Converters.pdb
+D:\Socles Techniques\MyUniversalWindowsStoreApp\UniversalConverters\Converters\bin\Release\Converters.pri
+D:\Socles Techniques\MyUniversalWindowsStoreApp\UniversalConverters\Converters\obj\Release\Converters.dll
+D:\Socles Techniques\MyUniversalWindowsStoreApp\UniversalConverters\Converters\obj\Release\Converters.pdb
+D:\Socles Techniques\MyUniversalWindowsStoreApp\UniversalConverters\Converters\obj\Release\priconfig.xml
+D:\Socles Techniques\MyUniversalWindowsStoreApp\UniversalConverters\Converters\obj\Release\priconfig.xml.intermediate
+D:\Socles Techniques\MyUniversalWindowsStoreApp\UniversalConverters\Converters\obj\Release\layout.resfiles
+D:\Socles Techniques\MyUniversalWindowsStoreApp\UniversalConverters\Converters\obj\Release\layout.resfiles.intermediate
+D:\Socles Techniques\MyUniversalWindowsStoreApp\UniversalConverters\Converters\obj\Release\resources.resfiles
+D:\Socles Techniques\MyUniversalWindowsStoreApp\UniversalConverters\Converters\obj\Release\resources.resfiles.intermediate
+D:\Socles Techniques\MyUniversalWindowsStoreApp\UniversalConverters\Converters\obj\Release\pri.resfiles
+D:\Socles Techniques\MyUniversalWindowsStoreApp\UniversalConverters\Converters\obj\Release\pri.resfiles.intermediate
+D:\Socles Techniques\MyUniversalWindowsStoreApp\UniversalConverters\Converters\obj\Release\qualifiers.txt
+D:\Socles Techniques\MyUniversalWindowsStoreApp\UniversalConverters\Converters\obj\Release\qualifiers.txt.intermediate
+D:\Socles Techniques\MyUniversalWindowsStoreApp\UniversalConverters\Converters\obj\Release\MultipleQualifiersPerDimensionFound.txt
